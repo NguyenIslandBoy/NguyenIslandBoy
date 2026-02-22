@@ -18,6 +18,7 @@ I'm a data professional transitioning from economics and business analytics into
 
 | Project | What It Does | Tech | Results |
 |---------|-------------|------|---------|
+| [**Vessel Fouling Risk Assessment**](https://github.com/NguyenIslandBoy/Vessel-Fouling-Risk-Assessment) | End-to-end ETL pipeline scoring hull fouling risk for commercial vessels using AIS tracking and oceanographic data | Python, PostgreSQL, Power BI, GFW API, CMEMS | 71 critical-risk vessels identified across 809-vessel fleet |
 | [**Bird Species Classification**](https://github.com/NguyenIslandBoy/Fine-grained-Classification-CUB-200-) | Fine-grained classification of 200 bird species using transfer learning | TensorFlow, EfficientNetB5 | **86% accuracy** on 11.7K images |
 | [**NYC Taxi Data Pipeline**](https://github.com/NguyenIslandBoy/PySpark-Spark-Query-Optimization) | Scalable pipeline processing 2.9M–132M taxi records with query optimization | PySpark, Spark SQL | Broadcast joins, single-pass filtering |
 | [**Text Generation (RNN)**](https://github.com/NguyenIslandBoy/Text-generation) | Word-level language model generating text in author style | TensorFlow, GRU | 90% accuracy, top-k/p sampling |
