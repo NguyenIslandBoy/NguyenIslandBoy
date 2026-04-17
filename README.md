@@ -12,6 +12,8 @@ I'm a data professional transitioning from economics and business analytics into
 
 **GenAI & LLMs:** RAG Pipelines • Text-to-SQL • LLM Orchestration • Vector Databases (FAISS) • Prompt Engineering
 
+**Cloud Platform**: Google Cloud Platform (Google Cloud Storage)
+
 **Data Engineering:** PySpark • ETL Pipelines • REST APIs • Query Optimization
 
 **Tools:** Power BI • Looker Studio • GA4 • DuckDB • Streamlit • Git • Google Colab
