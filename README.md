@@ -12,7 +12,7 @@ I'm a data professional transitioning from economics and business analytics into
 
 **GenAI & LLMs:** RAG Pipelines • Text-to-SQL • LLM Orchestration • Vector Databases (FAISS) • Prompt Engineering
 
-**Cloud Platform**: Google Cloud Platform (Google Cloud Storage)
+**Cloud Platform**: Google Cloud Platform (Google Cloud Storage), Microsoft Fabric (Gen2, Data Lake, LakeHouse, Warehouse, Eventstream, KQL)
 
 **Data Engineering:** PySpark • ETL Pipelines • REST APIs • Query Optimization
 
@@ -24,6 +24,8 @@ I'm a data professional transitioning from economics and business analytics into
 
 | Project | What It Does | Tech | Results |
 |---------|-------------|------|---------|
+| [**Financial Sentiment NLP**](https://github.com/NguyenIslandBoy/financial_sentiment_nlp) | A production-quality NLP pipeline for financial sentiment classification, built as a component of a credit signal extraction system | Python | 0.976 macro F1 across all three classes including minority negative class (13% prevalence) |
+| [**Credit Risk Scoring**](https://github.com/NguyenIslandBoy/credit_risk_scoring) | Implements the two-model approach standard in retail credit risk: an interpretable logistic regression scorecard as the regulatory baseline and a LightGBM challenger model for performance benchmarking | Python | Gini 0.33, KS 0.24 (Logistic Regression) and Gini 0.48, KS 0.36 (LightGBM) |
 | [**Stack Overflow Developer Survey Analytics**](https://github.com/NguyenIslandBoy/stack-overflow-dev-survey) | End-to-end SQL analytics project using Stack Overflow Developer Survey data (2021–2025) | Python, DuckDB, SQL | Rust's persistent 12pp desire gap, Java's 5.9pp adoption decline, and near-universal AI tool adoption (80%+) across dev roles by 2025 |
 | [**Solar Flare Detection**](https://github.com/NguyenIslandBoy/sdo_classifier) | Cloud-native data pipeline and production deployment for binary solar flare risk classification from NASA Solar Dynamics Observatory AIA imagery (backbone: EfficientNetB3_ | Python, GCP (GCS), HuggingFace Gradio, FastAPI, Docker | Mcro F1: 0.74 on val and 0.69 on test |
 | [**Vessel Fouling Risk Assessment**](https://github.com/NguyenIslandBoy/Vessel-Fouling-Risk-Assessment) | End-to-end ETL pipeline scoring hull fouling risk for commercial vessels using AIS tracking and oceanographic data | Python, PostgreSQL, Power BI, GFW API, CMEMS | 71 critical-risk vessels identified across 809-vessel fleet |
