@@ -6,7 +6,7 @@ I'm a data professional transitioning from economics and business analytics into
 
 ## 🔧 What I Work With
 
-**Languages:** Python (Pandas, NumPy, Matplotlib, TensorFlow/Keras) • SQL (MySQL, PostgreSQL, MS SQL Server) • R (Tidyverse, ggplot2) • PySpark
+**Languages:** Python (Pandas, NumPy, Matplotlib, TensorFlow/Keras) • SQL (MySQL, PostgreSQL, MS SQL Server, DuckDB) • R (Tidyverse, ggplot2) • PySpark
 
 **Data Science:** Deep Learning (CNNs, RNNs, Transfer Learning) • Machine Learning (Classification, Regression) • Computer Vision • NLP • Feature Engineering
 
@@ -16,9 +16,9 @@ I'm a data professional transitioning from economics and business analytics into
 
 **Data Engineering:** PySpark • ETL Pipelines • REST APIs • Query Optimization
 
-**Containerisation:** Docker
+**Backend & Development**: Django (REST Framework) • FastAPI • Streamlit • Docker • REST APIs • Git
 
-**Tools:** Power BI • Looker Studio • GA4 • DuckDB • Streamlit • Git • Google Colab
+**Tools:** Power BI • Looker Studio • GA4 • Google Colab
 
 ## 📂 Featured Projects
 
