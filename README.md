@@ -2,7 +2,7 @@
 
 **Data Science MSc @ Newcastle University | Economics → ML | Building predictive models for real-world impact**
 
-I'm a data professional transitioning from economics and business analytics into machine learning. My work focuses on turning messy data into actionable insights—whether that's classifying 200 bird species, processing 132M taxi records, or detecting retinal cysts without deep learning.
+I build data pipelines and ML systems — from actuarial pricing models to behavioural risk classifiers. Currently completing an MSc in Data Science at Newcastle University.
 
 ## 🔧 What I Work With
 
