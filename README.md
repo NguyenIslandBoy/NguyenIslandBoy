@@ -8,10 +8,10 @@ I build the data layer teams rely on: ingestion pipelines, tested dbt models, go
 
 ## 🔧 Stack
 
-**Analytics engineering:** dbt (models, tests, point-in-time marts), dimensional modelling, Power BI / Fabric semantic models (DAX, TMDL, Direct Lake, RLS), data dictionaries & lineage
-**Data engineering:** Python, SQL (BigQuery, PostgreSQL, DuckDB, T-SQL), PySpark, medallion architecture, REST-API ingestion, Prefect, Airflow, Fabric Lakehouse/Warehouse
-**MLOps & platform (growing):** FastAPI, Docker, GitHub Actions, Prefect-orchestrated model pipelines, LLM routing & fallback, Ollama, Claude Code + MCP
-**Cloud:** Google Cloud (BigQuery, GCS), Azure / Microsoft Fabric
+- **Analytics engineering:** dbt (models, tests, point-in-time marts), dimensional modelling, Power BI / Fabric semantic models (DAX, TMDL, Direct Lake, RLS), data dictionaries & lineage
+- **Data engineering:** Python, SQL (BigQuery, PostgreSQL, DuckDB, T-SQL), PySpark, medallion architecture, REST-API ingestion, Prefect, Airflow, Fabric Lakehouse/Warehouse
+- **MLOps & platform (growing):** FastAPI, Docker, GitHub Actions, Prefect-orchestrated model pipelines, LLM routing & fallback, Ollama, Claude Code + MCP
+- **Cloud:** Google Cloud (BigQuery, GCS), Azure / Microsoft Fabric
 
 ## 📂 Analytics & data engineering
 
